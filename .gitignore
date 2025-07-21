@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilados Java
+out/
+target/
+bin/
