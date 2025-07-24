@@ -11,12 +11,17 @@ public class AnalyseNumberService implements NumberChecker {
     }
 
     @Override
-    public void sumValues() {
-        analyseNumber.sumValues();
+    public void comparateNumbers() {
+        analyseNumber.comparateNumbers();
     }
 
     @Override
-    public void comparateNumbers() {
-        analyseNumber.comparateNumbers();
+    public int sumValues() {
+        return analyseNumber.sumValues();
+    }
+
+    @Override
+    public int multiplyValues() {
+        return analyseNumber.multiplyValues();
     }
 }
