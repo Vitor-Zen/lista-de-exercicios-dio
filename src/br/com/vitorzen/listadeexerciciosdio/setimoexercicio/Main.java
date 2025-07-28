@@ -1,4 +1,4 @@
-package br.com.vitorzen.listadeexerciciosdio.test;
+package br.com.vitorzen.listadeexerciciosdio.setimoexercicio;
 
 import java.util.Scanner;
 
